@@ -1,0 +1,6 @@
+{
+  "name": "BrightWire Electricals",
+  "description": "Retail electrical supplies, lighting, wiring, modular switches, and circuit protection in Bengaluru. Reliable power. Expert advice.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
